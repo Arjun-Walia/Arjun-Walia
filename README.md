@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arjun-Walia
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning MERN
+- 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: HE/HIM
