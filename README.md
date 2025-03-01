@@ -27,11 +27,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=Arjun-Walia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <br>
-
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-<br>
 <div align="center">
 <br>
 <a href="https://git.io/typing-svg" ><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25%&pause=1000&color=84C2C0&center=true&vCenter=true&width=435&height=25%&lines=Thank+you+for+visiting!;I'm+waiting for+you+again!;Have+a+good+day!" alt="Typing SVG" /></a>
