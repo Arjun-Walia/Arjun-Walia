@@ -20,6 +20,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Arjun-Walia&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Arjun-Walia&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjun-Walia&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img alt="Arjun-Walia-OFFICIAL Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Arjun-Walia&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
 
 <br>
 
