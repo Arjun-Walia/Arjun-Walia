@@ -24,7 +24,7 @@
 
 <br>
 
-<p align="centre"><b>👀 Visitors Count</b></p>  
+<p align="centre"><strong>👀 Visitors Count</strong></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Arjun-Walia}/count.svg" /></p> 
 <br>
 
