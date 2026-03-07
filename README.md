@@ -96,10 +96,11 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=arjun-walia&style=for-the-badge&color=84C2C0" alt="Profile Views"/>
 </div>
-
+<br>
 <div align="center">
-  <b>⭐ Feel free to star my repos if you find them interesting! ⭐</b>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=84C2C0&center=true&vCenter=true&width=600&lines=Thank+You+For+Visitng+%F0%9F%91%8B;Star+Any+Repo+You+Like" alt="Typing SVG" /></a>
 </div>
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=84C2C0&height=120&section=footer"/>
 
