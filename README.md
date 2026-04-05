@@ -78,7 +78,7 @@
 
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=arjun-walia&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Arjun-Walia&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <br>
